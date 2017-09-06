@@ -16,7 +16,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Nunito:400,800" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/reset.css">  
+    <link rel="stylesheet" href="css/reset.css">
 
 </head>
 <body class="back_color">
@@ -57,7 +57,7 @@
         Сайт находиться в разработке
         </p>
 
-    </a>
+    </a> 
 
 </div>
 
