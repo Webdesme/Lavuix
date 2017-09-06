@@ -1,0 +1,135 @@
+@font-face {
+    font-family: "webdes";
+    src: url("webdes.eot");
+    src: url("webdes.eot#iefix") format("embedded-opentype"),
+    url("webdes.woff") format("woff"),
+        /*url("icon.ttf") format("truetype"),*/ url("webdes.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: webdes;
+    font-size: 39px;
+    color: white;
+
+}
+
+.flaticon-one:before {
+    content: "Ͱ";
+
+}
+
+.flaticon-two:before {
+    content: "ͱ";
+
+}
+
+.flaticon-three:before {
+    content: "Ͳ";
+
+}
+
+.flaticon-four:before {
+    content: "ͳ";
+
+}
+
+.flaticon-five:before {
+    content: "Ͷ";
+
+}
+
+.flaticon-six:before {
+    content: "ͷ";
+
+}
+
+.flaticon-seven:before {
+    content: "͸";
+
+}
+
+.flaticon-eight:before {
+    content: "͹";
+
+}
+
+.flaticon-nine:before {
+    content: "Ϳ";
+
+}
+
+.flaticon-ten:before {
+    content: "΀";
+
+}
+
+.flaticon-eleven:before {
+    content: "΁";
+
+}
+
+.flaticon-twelve:before {
+    content: "΂";
+
+}
+
+.flaticon-thirteen:before {
+    content: "Ԕ";
+
+}
+
+.flaticon-fourteen:before {
+    content: "ԕ";
+
+}
+.flaticon-fifteen:before {
+    content: "Ԗ";
+
+}
+.flaticon-sixteen:before {
+    content: "ԗ";
+
+}
+.flaticon-seventeen:before {
+    content: "΃";
+
+}
+.flaticon-eightteen:before {
+    content: "΋";
+
+}
+.flaticon-nineteen:before {
+    content: "Ϗ";
+
+}
+
+.flaticon-twenty:before {
+    content: "΍";
+
+}
+
+.flaticon-twentyone:before {
+    content: "Ԟ";
+
+}
+.flaticon-twentytwo:before {
+    content: "ԟ";
+
+}
+.flaticon-twentythree:before {
+    content: "Ԡ";
+
+}
+.flaticon-twentyfour:before {
+    content: "ԡ";
+
+}
+.flaticon-twentyfive:before {
+    content: "ϐ";
+}
+
+
+
